@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukhanyo</h1>
 <h3 align="center">I am a full stack JavaScript developer</h3>
 
+[![wakatime](https://wakatime.com/badge/user/312c4833-c74c-4dca-8640-5185f7544b55.svg)](https://wakatime.com/@312c4833-c74c-4dca-8640-5185f7544b55)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukhanyov&label=Profile%20views&color=0e75b6&style=flat" alt="lukhanyov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukhanyov" alt="lukhanyov" /></a> </p>
