@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lukhanyo</h1>
 <h3 align="center">I am a full stack JavaScript developer</h3>
 
-[![wakatime](https://wakatime.com/badge/user/312c4833-c74c-4dca-8640-5185f7544b55.svg)](https://wakatime.com/@312c4833-c74c-4dca-8640-5185f7544b55)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukhanyov&label=Profile%20views&color=0e75b6&style=flat" alt="lukhanyov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukhanyov" alt="lukhanyov" /></a> </p>
+<p align="left"> 
+  <a href="https://wakatime.com/@312c4833-c74c-4dca-8640-5185f7544b55">
+    <img src="https://wakatime.com/badge/user/312c4833-c74c-4dca-8640-5185f7544b55.svg" alt="Total time coded since Jul 5 2022" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lukhanyov&label=Profile%20views&color=0e75b6&style=flat" alt="lukhanyov" /> 
+  <a href="https://www.codewars.com/users/LukhanyoV">
+    <img src="https://www.codewars.com/users/LukhanyoV/badges/small" alt="codewars" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **VueJS, Angular**
 
@@ -30,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukhanyov&show_icons=true&locale=en" alt="lukhanyov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukhanyov&" alt="lukhanyov" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukhanyov" alt="lukhanyov" /></a> </p>
